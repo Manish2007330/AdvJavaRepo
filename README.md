@@ -450,5 +450,3 @@ java -cp target/classes com.shopsphere.desktop.LoginFrame
 - **Author**: Manish Yadav
 - **Course**: Advanced Java Laboratory (ADJ Lab)
 - **Repository**: [`adjrepo`]
-#   A d v J a v a R e p o  
- 
